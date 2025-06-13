@@ -46,7 +46,7 @@ def predict(text):
 def connect_db():
     # Replace with your actual RDS credentials and endpoint
     db_user = "admin"
-    db_password = "Kimira1308"
+    db_password = "XXXXXXXXX"
     db_endpoint = "newsappdb.cctak66kwb3e.us-east-1.rds.amazonaws.com"
     db_name = "newsappdb"
 
